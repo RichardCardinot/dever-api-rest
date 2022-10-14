@@ -12,12 +12,14 @@ INDEX VERSION 1.131+D:\Documents\Estudos\Serratec\Aulas\Exercicios_API\.metadata
 1442019439.index
 2032849692.index
 3518368734.index
+1420267872.index
 2353148025.index
 3471312662.index
-769140714.index
 3784498594.index
+2766223932.index
 4251105366.index
 2337261459.index
+769140714.index
 2355782126.index
 1311423277.index
 1443392543.index
@@ -32,9 +34,11 @@ INDEX VERSION 1.131+D:\Documents\Estudos\Serratec\Aulas\Exercicios_API\.metadata
 499927141.index
 2516274478.index
 4294501494.index
+3806107503.index
 938702601.index
 2402685917.index
 3150984610.index
+2543595802.index
 131922350.index
 645044131.index
 2658085184.index
@@ -51,7 +55,9 @@ INDEX VERSION 1.131+D:\Documents\Estudos\Serratec\Aulas\Exercicios_API\.metadata
 459605140.index
 1103640287.index
 1441052125.index
+3503267209.index
 3509116367.index
+1349300943.index
 3523675092.index
 33660725.index
 3835813716.index
@@ -83,6 +89,7 @@ INDEX VERSION 1.131+D:\Documents\Estudos\Serratec\Aulas\Exercicios_API\.metadata
 2331196101.index
 3772234545.index
 2803873286.index
+2086531422.index
 1952729548.index
 2866249542.index
 3502582604.index
